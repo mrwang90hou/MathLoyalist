@@ -1,0 +1,24 @@
+
+#### 数模算法大全归类
+1.  模拟退火算法-最优路径
+2. 层次分析法(AHP)
+3. 元胞自动机(Cellular Automata)
+4. 模糊数学模型(Fuzzy Mathematical Model
+5. 目标规划(Goal Programming)
+6. 图论(Graph Theory)
+7. 灰色系统建模(Grey System)
+8. 启发式算法(Heuristic Algorithm)
+9. 免疫算法(Immune Algorithm)
+10. 整数规划(Integer Programming)
+11. 《MATLAB智能算法案例》(Intelligence Algorithm)
+12. 插值(Interpolation)
+13. 线性规划(Linear Programming)
+14. 多元分析(Multivarite Analysis)
+15. 神经网络(Neural Network)
+16. 非线性规划(Non Linear Programming)
+17. 常微分方程(Oridinary Differential Equation)
+18. 偏微分方程(Partial Differential Equation)
+19. 偏最小二乘法(Partial Least Squares)
+20. 《模式识别与机器学习》(Pattern Recognition and Machine Learning)
+21. 回归分析(Regression Analysis)
+22. 时间序列模型(Time Series)
